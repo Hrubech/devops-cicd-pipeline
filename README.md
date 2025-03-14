@@ -1,6 +1,5 @@
 # 🚀 Ultimate DevOps CI/CD Pipeline Project
 
-## 🌍 Introduction
 Ce projet met en place une **pipeline CI/CD complète** pour une application cloud-native, intégrant **Terraform, Kubernetes, Jenkins, GitLab CI/CD, Docker, SonarQube, Nexus, Prometheus, Grafana et Trivy**.  
 
 Il permet d'automatiser l'ensemble du cycle de vie du déploiement applicatif, en assurant la qualité, la sécurité et la supervision des services déployés.

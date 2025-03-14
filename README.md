@@ -4,7 +4,6 @@ Ce projet met en place une **pipeline CI/CD complète** pour une application clo
 
 Il permet d'automatiser l'ensemble du cycle de vie du déploiement applicatif, en assurant la qualité, la sécurité et la supervision des services déployés.
 
----
 
 ## 📌 Technologies utilisées
 - **Infrastructure as Code (IaC)** : Terraform, Kubernetes (EKS)

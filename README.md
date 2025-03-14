@@ -16,8 +16,7 @@ Il permet d'automatiser l'ensemble du cycle de vie du déploiement applicatif, e
 ---
 
 ## 📜 Architecture du Projet
-![Architecture Diagram](documentation/architecture-diagram.png)  
-📌 *[Insérer une capture d’écran de l’architecture du projet]*
+![Architecture Diagram](documentation/architecture-diagram.png)
 
 Le pipeline inclut :
 1. **Provisioning** : Déploiement d'un cluster EKS avec Terraform.

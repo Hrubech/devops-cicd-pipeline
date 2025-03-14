@@ -3,7 +3,7 @@
 ## 🌍 Introduction
 Ce projet met en place une **pipeline CI/CD complète** pour une application cloud-native, intégrant **Terraform, Kubernetes, Jenkins, GitLab CI/CD, Docker, SonarQube, Nexus, Prometheus, Grafana et Trivy**.  
 
-L'objectif est de démontrer **une expertise DevOps avancée** à travers l'automatisation complète du cycle de vie du déploiement applicatif.
+Il permet d'automatiser l'ensemble du cycle de vie du déploiement applicatif, en assurant la qualité, la sécurité et la supervision des services déployés.
 
 ---
 

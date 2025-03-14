@@ -126,9 +126,9 @@ Le pipeline inclut :
 
 ## 🤝 Contact
 👨‍💻 **Hrubech HOMBESSA**  
-📧 [hrubechhombessa@gmail.com]  
+📧 hrubechhombessa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hrubech-hombessa/)  
 
 ---
 
-💡 **Ce projet est conçu pour démontrer des compétences avancées en DevOps et CI/CD. N'hésitez pas à explorer, tester et contribuer !** 🚀
+💡 **Ce projet est conçu pour démontrer des compétences en DevOps et CI/CD. N'hésitez pas à explorer, tester et contribuer !** 🚀
